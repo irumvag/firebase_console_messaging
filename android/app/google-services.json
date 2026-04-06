@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57884032288",
+    "project_id": "lab6fcm-f899f",
+    "storage_bucket": "lab6fcm-f899f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57884032288:android:d212a22e8ca2049f41ab45",
+        "android_client_info": {
+          "package_name": "com.lab6.lab6_fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlt0yXveExhWiQ2IVdkOKYUKOVRTkRiFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
